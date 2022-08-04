@@ -17,6 +17,12 @@
       "day": "sdjsdf",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "fddf",
+      "day": "fefef",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
