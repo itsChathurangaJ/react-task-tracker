@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+create react app
+npx create-react-app task-tracker
+
+start dev server
+npm start
+
+install react icons
+npm i react-icons
+
+build react app
+npm run build
+
+install static server to run the react app
+npm i -g serve // -g is for globle install
+
+start and deploy the build folder in static sever
+serve -s build -p 8000
+
+install mock Rest API json-server
+npm i json-server
