@@ -91,3 +91,6 @@ serve -s build -p 8000
 
 install mock Rest API json-server
 npm i json-server
+
+install routing library
+npm i react-router-dom
